@@ -1,6 +1,6 @@
 {
   "name": "flexible_components",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "custom react components",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",

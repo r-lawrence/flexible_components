@@ -1,6 +1,6 @@
 {
   "name": "flexible_components",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "custom react components",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -9,7 +9,7 @@
     "test:coverage": "jest --coverage",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
-    "rollup": "rollup -c --bundleConfigAsCjs"
+    "build": "rollup -c --bundleConfigAsCjs"
   },
   "author": "Robert Lawrence",
   "license": "ISC",

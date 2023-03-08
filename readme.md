@@ -30,9 +30,6 @@ const SampleComponent = () => {
 
 
 
-## Contributions
-
-> unsure if there will be a want to contribute to this repository.  If you have interest in contributing, please contact me at robwebsitedesign@gmail.com.  
 
 
 

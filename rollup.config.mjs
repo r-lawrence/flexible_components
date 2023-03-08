@@ -6,11 +6,8 @@ import external from 'rollup-plugin-peer-deps-external';
 import postcss from 'rollup-plugin-postcss';
 import svg from 'rollup-plugin-svg'
 
-const packageJson = require('./package.json');
-
 export default {
     input: 'src/components/index.ts',
-
     output: [
         
         {

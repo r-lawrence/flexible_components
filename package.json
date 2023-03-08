@@ -9,7 +9,7 @@
     "test:coverage": "jest --coverage",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
-    "rollup": "rollup -c --bundleConfigAsCjs"
+    "build": "rollup -c"
   },
   "author": "Robert Lawrence",
   "license": "ISC",

@@ -1,5 +1,5 @@
 {
-  "name": "flexible_components",
+  "name": "@r-lawrence/flexible_components",
   "version": "0.0.0",
   "description": "custom react components",
   "main": "dist/cjs/index.js",
@@ -51,5 +51,8 @@
   },
   "dependencies": {
     "rollup-plugin-svg": "^2.0.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/r-lawrence"
   }
 }
